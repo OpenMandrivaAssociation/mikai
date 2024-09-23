@@ -3,11 +3,11 @@
 
 Summary: Manage MyKey devices
 Name:    mikai
-Version: 4.0.1
-Release: 2
+Version: 4.1.0
+Release: 1
 License: MIKAI LICENSE
 URL:     https://telegram.me/mikaidownload
-Source0: lib%{name}-%{version}.tar.xz
+Source0: lib%{name}-%{version}.tar.zst
 
 BuildRequires: cmake
 BuildRequires: ninja
